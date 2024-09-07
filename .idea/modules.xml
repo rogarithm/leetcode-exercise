@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/in_java/in_java.iml" filepath="$PROJECT_DIR$/in_java/in_java.iml" />
-      <module fileurl="file://$PROJECT_DIR$/in_ruby.iml" filepath="$PROJECT_DIR$/in_ruby.iml" />
+      <module fileurl="file://$PROJECT_DIR$/in_ruby/in_ruby.iml" filepath="$PROJECT_DIR$/in_ruby/in_ruby.iml" />
     </modules>
   </component>
 </project>
